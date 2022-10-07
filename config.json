@@ -1,0 +1,7 @@
+{
+    "//" : "prefix -> 指令前綴 , token -> 機器人金鑰 , game -> 機器人顯示的遊戲狀態",
+    "prefix" : "*", 
+    "token" : "MTAyNzk1Mjg2NzE1NzQ3OTUwNQ.GkeqwF.-MVuyd520PITgcPIJefQl5KHwE7St-tMLQhtZE",
+    "game" : "問答中"
+
+}
